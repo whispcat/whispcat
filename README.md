@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @WhispCat
-- 👀 I’m interested in all field of computer science.
+- 👋 Hi, I’m @WhispCat.
+- 👤 I am a human being.
+- 🌏 I am a supporter of Technological Determinism.
+- 🗣️ I speak both Chinese and English, and am currently learning Japanese.
+- 👀 I’m interested in computer science, mathmatices, linguistics and art history.
+- 🥰 I enjoy Japan's ACGN cultures.
+- 📖 I'm exploring the unknown, striving to become more knowledgeable.
 - 🌱 I’m currently learning C++ and Rust.
-- 😄 Pronouns: He/Him
-
-<!---
-whispcat/whispcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: He/Him.
