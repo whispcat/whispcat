@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @WhispCat.
 - 👤 I am a human being.
 - 🌏 I am a supporter of Technological Determinism.
-- 🗣️ I speak both Chinese and English, and am currently learning Japanese.
+- 🗣️ I speak Chinese and English, and I am currently learning Japanese.
 - 👀 I’m interested in computer science, mathmatices, linguistics and art history.
-- 🥰 I enjoy Japan's ACGN cultures.
-- 📖 I'm exploring the unknown, striving to become more knowledgeable.
-- 🌱 I’m currently learning C++ and Rust.
-- 😄 Pronouns: He/Him.
+- 🌱 I’m currently learning machine learning.
